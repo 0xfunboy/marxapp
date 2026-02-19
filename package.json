@@ -1,0 +1,17 @@
+{
+  "name": "marxapp",
+  "private": true,
+  "version": "0.1.0",
+  "packageManager": "pnpm@10.5.2",
+  "scripts": {
+    "dev": "concurrently \"pnpm run dev:web\" \"pnpm run dev:api\"",
+    "dev:web": "pnpm --filter @marxapp/web dev",
+    "dev:api": "pnpm --filter @marxapp/api dev",
+    "build": "pnpm -r --if-present build",
+    "typecheck": "pnpm -r --if-present typecheck"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "typescript": "^5.8.2"
+  }
+}

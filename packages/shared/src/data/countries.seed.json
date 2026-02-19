@@ -1,0 +1,2252 @@
+[
+  {
+    "iso3": "VAT",
+    "name": "Vatican City",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 882,
+    "lat": 41.9,
+    "lon": 12.45
+  },
+  {
+    "iso3": "BEL",
+    "name": "Belgium",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 11825551,
+    "lat": 50.83333333,
+    "lon": 4.0
+  },
+  {
+    "iso3": "COM",
+    "name": "Comoros",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 919901,
+    "lat": -12.16666666,
+    "lon": 44.25
+  },
+  {
+    "iso3": "PRI",
+    "name": "Puerto Rico",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 3203295,
+    "lat": 18.25,
+    "lon": -66.5
+  },
+  {
+    "iso3": "UMI",
+    "name": "United States Minor Outlying Islands",
+    "region": "Americas",
+    "subregion": "North America",
+    "population": 0,
+    "lat": 19.3,
+    "lon": 166.633333
+  },
+  {
+    "iso3": "BVT",
+    "name": "Bouvet Island",
+    "region": "Antarctic",
+    "subregion": "",
+    "population": 0,
+    "lat": -54.4208,
+    "lon": 3.3464
+  },
+  {
+    "iso3": "TZA",
+    "name": "Tanzania",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 68153004,
+    "lat": -6.0,
+    "lon": 35.0
+  },
+  {
+    "iso3": "MKD",
+    "name": "North Macedonia",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "population": 1822612,
+    "lat": 41.83333333,
+    "lon": 22.0
+  },
+  {
+    "iso3": "SAU",
+    "name": "Saudi Arabia",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 35300280,
+    "lat": 25.0,
+    "lon": 45.0
+  },
+  {
+    "iso3": "CXR",
+    "name": "Christmas Island",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "population": 1692,
+    "lat": -10.5,
+    "lon": 105.66666666
+  },
+  {
+    "iso3": "SVK",
+    "name": "Slovakia",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "population": 5413813,
+    "lat": 48.66666666,
+    "lon": 19.5
+  },
+  {
+    "iso3": "PRK",
+    "name": "North Korea",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 25950000,
+    "lat": 40.0,
+    "lon": 127.0
+  },
+  {
+    "iso3": "SJM",
+    "name": "Svalbard and Jan Mayen",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 2530,
+    "lat": 78.0,
+    "lon": 20.0
+  },
+  {
+    "iso3": "CAF",
+    "name": "Central African Republic",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 6470307,
+    "lat": 7.0,
+    "lon": 21.0
+  },
+  {
+    "iso3": "ZMB",
+    "name": "Zambia",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 19693423,
+    "lat": -15.0,
+    "lon": 30.0
+  },
+  {
+    "iso3": "JAM",
+    "name": "Jamaica",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 2825544,
+    "lat": 18.25,
+    "lon": -77.5
+  },
+  {
+    "iso3": "PHL",
+    "name": "Philippines",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 114123600,
+    "lat": 13.0,
+    "lon": 122.0
+  },
+  {
+    "iso3": "MNE",
+    "name": "Montenegro",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "population": 623327,
+    "lat": 42.5,
+    "lon": 19.3
+  },
+  {
+    "iso3": "CHL",
+    "name": "Chile",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 20206953,
+    "lat": -30.0,
+    "lon": -71.0
+  },
+  {
+    "iso3": "OMN",
+    "name": "Oman",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 5343630,
+    "lat": 21.0,
+    "lon": 57.0
+  },
+  {
+    "iso3": "ARM",
+    "name": "Armenia",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 3076200,
+    "lat": 40.0,
+    "lon": 45.0
+  },
+  {
+    "iso3": "PAK",
+    "name": "Pakistan",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 241499431,
+    "lat": 30.0,
+    "lon": 70.0
+  },
+  {
+    "iso3": "TKL",
+    "name": "Tokelau",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "population": 2608,
+    "lat": -9.0,
+    "lon": -172.0
+  },
+  {
+    "iso3": "BEN",
+    "name": "Benin",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 13224860,
+    "lat": 9.5,
+    "lon": 2.25
+  },
+  {
+    "iso3": "SPM",
+    "name": "Saint Pierre and Miquelon",
+    "region": "Americas",
+    "subregion": "North America",
+    "population": 5819,
+    "lat": 46.83333333,
+    "lon": -56.33333333
+  },
+  {
+    "iso3": "CRI",
+    "name": "Costa Rica",
+    "region": "Americas",
+    "subregion": "Central America",
+    "population": 5309625,
+    "lat": 10.0,
+    "lon": -84.0
+  },
+  {
+    "iso3": "GGY",
+    "name": "Guernsey",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 64781,
+    "lat": 49.46666666,
+    "lon": -2.58333333
+  },
+  {
+    "iso3": "VGB",
+    "name": "British Virgin Islands",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 39471,
+    "lat": 18.431383,
+    "lon": -64.62305
+  },
+  {
+    "iso3": "SUR",
+    "name": "Suriname",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 616500,
+    "lat": 4.0,
+    "lon": -56.0
+  },
+  {
+    "iso3": "HUN",
+    "name": "Hungary",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "population": 9539502,
+    "lat": 47.0,
+    "lon": 20.0
+  },
+  {
+    "iso3": "NLD",
+    "name": "Netherlands",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 18100436,
+    "lat": 52.5,
+    "lon": 5.75
+  },
+  {
+    "iso3": "UZB",
+    "name": "Uzbekistan",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "population": 37859698,
+    "lat": 41.0,
+    "lon": 64.0
+  },
+  {
+    "iso3": "ERI",
+    "name": "Eritrea",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 3607000,
+    "lat": 15.0,
+    "lon": 39.0
+  },
+  {
+    "iso3": "SLE",
+    "name": "Sierra Leone",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 9077691,
+    "lat": 8.5,
+    "lon": -11.5
+  },
+  {
+    "iso3": "KWT",
+    "name": "Kuwait",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 4881254,
+    "lat": 29.5,
+    "lon": 45.75
+  },
+  {
+    "iso3": "BTN",
+    "name": "Bhutan",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 784043,
+    "lat": 27.5,
+    "lon": 90.5
+  },
+  {
+    "iso3": "BMU",
+    "name": "Bermuda",
+    "region": "Americas",
+    "subregion": "North America",
+    "population": 64055,
+    "lat": 32.33333333,
+    "lon": -64.75
+  },
+  {
+    "iso3": "CYP",
+    "name": "Cyprus",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 1442614,
+    "lat": 35.0,
+    "lon": 33.0
+  },
+  {
+    "iso3": "FRA",
+    "name": "France",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 66351959,
+    "lat": 46.0,
+    "lon": 2.0
+  },
+  {
+    "iso3": "POL",
+    "name": "Poland",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "population": 37392000,
+    "lat": 52.0,
+    "lon": 20.0
+  },
+  {
+    "iso3": "AUT",
+    "name": "Austria",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "population": 9200931,
+    "lat": 47.33333333,
+    "lon": 13.33333333
+  },
+  {
+    "iso3": "LIE",
+    "name": "Liechtenstein",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 40900,
+    "lat": 47.26666666,
+    "lon": 9.53333333
+  },
+  {
+    "iso3": "KHM",
+    "name": "Cambodia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 17577760,
+    "lat": 13.0,
+    "lon": 105.0
+  },
+  {
+    "iso3": "KNA",
+    "name": "Saint Kitts and Nevis",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 51320,
+    "lat": 17.33333333,
+    "lon": -62.75
+  },
+  {
+    "iso3": "LCA",
+    "name": "Saint Lucia",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 184100,
+    "lat": 13.88333333,
+    "lon": -60.96666666
+  },
+  {
+    "iso3": "GRD",
+    "name": "Grenada",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 109021,
+    "lat": 12.11666666,
+    "lon": -61.66666666
+  },
+  {
+    "iso3": "DEU",
+    "name": "Germany",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 83491249,
+    "lat": 51.0,
+    "lon": 9.0
+  },
+  {
+    "iso3": "GIN",
+    "name": "Guinea",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 14363931,
+    "lat": 11.0,
+    "lon": -10.0
+  },
+  {
+    "iso3": "IND",
+    "name": "India",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 1417492000,
+    "lat": 20.0,
+    "lon": 77.0
+  },
+  {
+    "iso3": "GNQ",
+    "name": "Equatorial Guinea",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 1668768,
+    "lat": 2.0,
+    "lon": 10.0
+  },
+  {
+    "iso3": "SDN",
+    "name": "Sudan",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 51662000,
+    "lat": 15.0,
+    "lon": 30.0
+  },
+  {
+    "iso3": "DJI",
+    "name": "Djibouti",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 1066809,
+    "lat": 11.5,
+    "lon": 43.0
+  },
+  {
+    "iso3": "DNK",
+    "name": "Denmark",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 6011488,
+    "lat": 56.0,
+    "lon": 10.0
+  },
+  {
+    "iso3": "SWE",
+    "name": "Sweden",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 10605098,
+    "lat": 62.0,
+    "lon": 15.0
+  },
+  {
+    "iso3": "VEN",
+    "name": "Venezuela",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 28517000,
+    "lat": 8.0,
+    "lon": -66.0
+  },
+  {
+    "iso3": "LBY",
+    "name": "Libya",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 7459000,
+    "lat": 25.0,
+    "lon": 17.0
+  },
+  {
+    "iso3": "BES",
+    "name": "Caribbean Netherlands",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 31980,
+    "lat": 12.18,
+    "lon": -68.25
+  },
+  {
+    "iso3": "GTM",
+    "name": "Guatemala",
+    "region": "Americas",
+    "subregion": "Central America",
+    "population": 18079810,
+    "lat": 15.5,
+    "lon": -90.25
+  },
+  {
+    "iso3": "ARE",
+    "name": "United Arab Emirates",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 11294243,
+    "lat": 24.0,
+    "lon": 54.0
+  },
+  {
+    "iso3": "LAO",
+    "name": "Laos",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 7647000,
+    "lat": 18.0,
+    "lon": 105.0
+  },
+  {
+    "iso3": "BGD",
+    "name": "Bangladesh",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 169828911,
+    "lat": 24.0,
+    "lon": 90.0
+  },
+  {
+    "iso3": "TUV",
+    "name": "Tuvalu",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "population": 10643,
+    "lat": -8.0,
+    "lon": 178.0
+  },
+  {
+    "iso3": "ALB",
+    "name": "Albania",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "population": 2363314,
+    "lat": 41.0,
+    "lon": 20.0
+  },
+  {
+    "iso3": "SWZ",
+    "name": "Eswatini",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "population": 1235549,
+    "lat": -26.5,
+    "lon": 31.5
+  },
+  {
+    "iso3": "YEM",
+    "name": "Yemen",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 32684503,
+    "lat": 15.0,
+    "lon": 48.0
+  },
+  {
+    "iso3": "CCK",
+    "name": "Cocos (Keeling) Islands",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "population": 593,
+    "lat": -12.1642,
+    "lon": 96.871
+  },
+  {
+    "iso3": "MSR",
+    "name": "Montserrat",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 4386,
+    "lat": 16.75,
+    "lon": -62.2
+  },
+  {
+    "iso3": "AGO",
+    "name": "Angola",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 36170961,
+    "lat": -12.5,
+    "lon": 18.5
+  },
+  {
+    "iso3": "RWA",
+    "name": "Rwanda",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 14104969,
+    "lat": -2.0,
+    "lon": 30.0
+  },
+  {
+    "iso3": "COD",
+    "name": "DR Congo",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 112832000,
+    "lat": 0.0,
+    "lon": 25.0
+  },
+  {
+    "iso3": "TTO",
+    "name": "Trinidad and Tobago",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 1367764,
+    "lat": 10.6918,
+    "lon": -61.2225
+  },
+  {
+    "iso3": "UKR",
+    "name": "Ukraine",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 32862000,
+    "lat": 49.0,
+    "lon": 32.0
+  },
+  {
+    "iso3": "TGO",
+    "name": "Togo",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 8095498,
+    "lat": 8.0,
+    "lon": 1.16666666
+  },
+  {
+    "iso3": "LTU",
+    "name": "Lithuania",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 2894886,
+    "lat": 56.0,
+    "lon": 24.0
+  },
+  {
+    "iso3": "BHR",
+    "name": "Bahrain",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 1594654,
+    "lat": 26.0,
+    "lon": 50.55
+  },
+  {
+    "iso3": "HKG",
+    "name": "Hong Kong",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 7527500,
+    "lat": 22.267,
+    "lon": 114.188
+  },
+  {
+    "iso3": "BRB",
+    "name": "Barbados",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 267800,
+    "lat": 13.16666666,
+    "lon": -59.53333333
+  },
+  {
+    "iso3": "PRT",
+    "name": "Portugal",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 10749635,
+    "lat": 39.5,
+    "lon": -8.0
+  },
+  {
+    "iso3": "ISR",
+    "name": "Israel",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 10134800,
+    "lat": 31.47,
+    "lon": 35.13
+  },
+  {
+    "iso3": "STP",
+    "name": "São Tomé and Príncipe",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 209607,
+    "lat": 1.0,
+    "lon": 7.0
+  },
+  {
+    "iso3": "ROU",
+    "name": "Romania",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "population": 19036031,
+    "lat": 46.0,
+    "lon": 25.0
+  },
+  {
+    "iso3": "GUM",
+    "name": "Guam",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "population": 153836,
+    "lat": 13.46666666,
+    "lon": 144.78333333
+  },
+  {
+    "iso3": "TON",
+    "name": "Tonga",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "population": 100179,
+    "lat": -20.0,
+    "lon": -175.0
+  },
+  {
+    "iso3": "GMB",
+    "name": "Gambia",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 2422712,
+    "lat": 13.46666666,
+    "lon": -16.56666666
+  },
+  {
+    "iso3": "NER",
+    "name": "Niger",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 26312034,
+    "lat": 16.0,
+    "lon": 8.0
+  },
+  {
+    "iso3": "TWN",
+    "name": "Taiwan",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 23317031,
+    "lat": 23.5,
+    "lon": 121.0
+  },
+  {
+    "iso3": "NFK",
+    "name": "Norfolk Island",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "population": 2188,
+    "lat": -29.03333333,
+    "lon": 167.95
+  },
+  {
+    "iso3": "IRQ",
+    "name": "Iraq",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 46118793,
+    "lat": 33.0,
+    "lon": 44.0
+  },
+  {
+    "iso3": "NZL",
+    "name": "New Zealand",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "population": 5324700,
+    "lat": -41.0,
+    "lon": 174.0
+  },
+  {
+    "iso3": "CUB",
+    "name": "Cuba",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 9748007,
+    "lat": 21.5,
+    "lon": -80.0
+  },
+  {
+    "iso3": "ETH",
+    "name": "Ethiopia",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 111652998,
+    "lat": 8.0,
+    "lon": 38.0
+  },
+  {
+    "iso3": "MLT",
+    "name": "Malta",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 574250,
+    "lat": 35.9375,
+    "lon": 14.3754
+  },
+  {
+    "iso3": "MDG",
+    "name": "Madagascar",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 31727042,
+    "lat": -20.0,
+    "lon": 47.0
+  },
+  {
+    "iso3": "BIH",
+    "name": "Bosnia and Herzegovina",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "population": 3422000,
+    "lat": 44.0,
+    "lon": 18.0
+  },
+  {
+    "iso3": "GEO",
+    "name": "Georgia",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 4000921,
+    "lat": 42.0,
+    "lon": 43.5
+  },
+  {
+    "iso3": "NCL",
+    "name": "New Caledonia",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "population": 264596,
+    "lat": -21.5,
+    "lon": 165.5
+  },
+  {
+    "iso3": "EST",
+    "name": "Estonia",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 1369995,
+    "lat": 59.0,
+    "lon": 26.0
+  },
+  {
+    "iso3": "HND",
+    "name": "Honduras",
+    "region": "Americas",
+    "subregion": "Central America",
+    "population": 9892632,
+    "lat": 15.0,
+    "lon": -86.5
+  },
+  {
+    "iso3": "AFG",
+    "name": "Afghanistan",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 43844000,
+    "lat": 33.0,
+    "lon": 65.0
+  },
+  {
+    "iso3": "CUW",
+    "name": "Curaçao",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 156115,
+    "lat": 12.116667,
+    "lon": -68.933333
+  },
+  {
+    "iso3": "HTI",
+    "name": "Haiti",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 11867032,
+    "lat": 19.0,
+    "lon": -72.41666666
+  },
+  {
+    "iso3": "NAM",
+    "name": "Namibia",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "population": 3022401,
+    "lat": -22.0,
+    "lon": 17.0
+  },
+  {
+    "iso3": "PCN",
+    "name": "Pitcairn Islands",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "population": 35,
+    "lat": -25.06666666,
+    "lon": -130.1
+  },
+  {
+    "iso3": "VCT",
+    "name": "Saint Vincent and the Grenadines",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 110872,
+    "lat": 13.25,
+    "lon": -61.2
+  },
+  {
+    "iso3": "GNB",
+    "name": "Guinea-Bissau",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 1781308,
+    "lat": 12.0,
+    "lon": -15.0
+  },
+  {
+    "iso3": "THA",
+    "name": "Thailand",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 65859640,
+    "lat": 15.0,
+    "lon": 100.0
+  },
+  {
+    "iso3": "KAZ",
+    "name": "Kazakhstan",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "population": 20426568,
+    "lat": 48.0196,
+    "lon": 66.9237
+  },
+  {
+    "iso3": "BLM",
+    "name": "Saint Barthélemy",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 10562,
+    "lat": 18.5,
+    "lon": -63.41666666
+  },
+  {
+    "iso3": "URY",
+    "name": "Uruguay",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 3499451,
+    "lat": -33.0,
+    "lon": -56.0
+  },
+  {
+    "iso3": "CIV",
+    "name": "Ivory Coast",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 31719275,
+    "lat": 8.0,
+    "lon": -5.0
+  },
+  {
+    "iso3": "BRA",
+    "name": "Brazil",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 213421037,
+    "lat": -10.0,
+    "lon": -55.0
+  },
+  {
+    "iso3": "MNG",
+    "name": "Mongolia",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 3544835,
+    "lat": 46.0,
+    "lon": 105.0
+  },
+  {
+    "iso3": "IOT",
+    "name": "British Indian Ocean Territory",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 0,
+    "lat": -6.0,
+    "lon": 71.5
+  },
+  {
+    "iso3": "LVA",
+    "name": "Latvia",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 1829000,
+    "lat": 57.0,
+    "lon": 25.0
+  },
+  {
+    "iso3": "GUY",
+    "name": "Guyana",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 772975,
+    "lat": 5.0,
+    "lon": -59.0
+  },
+  {
+    "iso3": "PYF",
+    "name": "French Polynesia",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "population": 279500,
+    "lat": -17.6797,
+    "lon": -149.4068
+  },
+  {
+    "iso3": "PAN",
+    "name": "Panama",
+    "region": "Americas",
+    "subregion": "Central America",
+    "population": 4064780,
+    "lat": 9.0,
+    "lon": -80.0
+  },
+  {
+    "iso3": "JEY",
+    "name": "Jersey",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 103267,
+    "lat": 49.25,
+    "lon": -2.16666666
+  },
+  {
+    "iso3": "MLI",
+    "name": "Mali",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 22395489,
+    "lat": 17.0,
+    "lon": -4.0
+  },
+  {
+    "iso3": "PER",
+    "name": "Peru",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 34350244,
+    "lat": -10.0,
+    "lon": -76.0
+  },
+  {
+    "iso3": "IDN",
+    "name": "Indonesia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 284438782,
+    "lat": -5.0,
+    "lon": 120.0
+  },
+  {
+    "iso3": "MYT",
+    "name": "Mayotte",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 320901,
+    "lat": -12.83333333,
+    "lon": 45.16666666
+  },
+  {
+    "iso3": "MDA",
+    "name": "Moldova",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 2749076,
+    "lat": 47.0,
+    "lon": 29.0
+  },
+  {
+    "iso3": "SYR",
+    "name": "Syria",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 25620000,
+    "lat": 35.0,
+    "lon": 38.0
+  },
+  {
+    "iso3": "SGP",
+    "name": "Singapore",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 6110200,
+    "lat": 1.36666666,
+    "lon": 103.8
+  },
+  {
+    "iso3": "CYM",
+    "name": "Cayman Islands",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 84738,
+    "lat": 19.3133,
+    "lon": -81.2546
+  },
+  {
+    "iso3": "EGY",
+    "name": "Egypt",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 107271260,
+    "lat": 27.0,
+    "lon": 30.0
+  },
+  {
+    "iso3": "HMD",
+    "name": "Heard Island and McDonald Islands",
+    "region": "Antarctic",
+    "subregion": "",
+    "population": 0,
+    "lat": -53.0818,
+    "lon": 73.5042
+  },
+  {
+    "iso3": "MDV",
+    "name": "Maldives",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 515132,
+    "lat": 3.25,
+    "lon": 73.0
+  },
+  {
+    "iso3": "TLS",
+    "name": "Timor-Leste",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 1391221,
+    "lat": -8.83333333,
+    "lon": 125.91666666
+  },
+  {
+    "iso3": "JOR",
+    "name": "Jordan",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 11734000,
+    "lat": 31.0,
+    "lon": 36.0
+  },
+  {
+    "iso3": "SOM",
+    "name": "Somalia",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 19655000,
+    "lat": 10.0,
+    "lon": 49.0
+  },
+  {
+    "iso3": "AZE",
+    "name": "Azerbaijan",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 10241722,
+    "lat": 40.5,
+    "lon": 47.5
+  },
+  {
+    "iso3": "MOZ",
+    "name": "Mozambique",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 34090466,
+    "lat": -18.25,
+    "lon": 35.0
+  },
+  {
+    "iso3": "CPV",
+    "name": "Cape Verde",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 491233,
+    "lat": 16.5388,
+    "lon": -23.0418
+  },
+  {
+    "iso3": "CAN",
+    "name": "Canada",
+    "region": "Americas",
+    "subregion": "North America",
+    "population": 41651653,
+    "lat": 60.0,
+    "lon": -95.0
+  },
+  {
+    "iso3": "IMN",
+    "name": "Isle of Man",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 84530,
+    "lat": 54.25,
+    "lon": -4.5
+  },
+  {
+    "iso3": "GIB",
+    "name": "Gibraltar",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 38000,
+    "lat": 36.13333333,
+    "lon": -5.35
+  },
+  {
+    "iso3": "KOR",
+    "name": "South Korea",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 51159889,
+    "lat": 37.0,
+    "lon": 127.5
+  },
+  {
+    "iso3": "NIC",
+    "name": "Nicaragua",
+    "region": "Americas",
+    "subregion": "Central America",
+    "population": 6803886,
+    "lat": 13.0,
+    "lon": -85.0
+  },
+  {
+    "iso3": "BGR",
+    "name": "Bulgaria",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "population": 6437360,
+    "lat": 43.0,
+    "lon": 25.0
+  },
+  {
+    "iso3": "SLV",
+    "name": "El Salvador",
+    "region": "Americas",
+    "subregion": "Central America",
+    "population": 6029976,
+    "lat": 13.83333333,
+    "lon": -88.91666666
+  },
+  {
+    "iso3": "LUX",
+    "name": "Luxembourg",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 681973,
+    "lat": 49.75,
+    "lon": 6.16666666
+  },
+  {
+    "iso3": "USA",
+    "name": "United States",
+    "region": "Americas",
+    "subregion": "North America",
+    "population": 340110988,
+    "lat": 38.0,
+    "lon": -97.0
+  },
+  {
+    "iso3": "COL",
+    "name": "Colombia",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 53057212,
+    "lat": 4.0,
+    "lon": -72.0
+  },
+  {
+    "iso3": "ESH",
+    "name": "Western Sahara",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 600904,
+    "lat": 24.5,
+    "lon": -13.0
+  },
+  {
+    "iso3": "AUS",
+    "name": "Australia",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "population": 27536874,
+    "lat": -27.0,
+    "lon": 133.0
+  },
+  {
+    "iso3": "TCD",
+    "name": "Chad",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 19340757,
+    "lat": 15.0,
+    "lon": 19.0
+  },
+  {
+    "iso3": "SHN",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 5651,
+    "lat": -15.95,
+    "lon": -5.72
+  },
+  {
+    "iso3": "TUR",
+    "name": "Turkey",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 85664944,
+    "lat": 39.0,
+    "lon": 35.0
+  },
+  {
+    "iso3": "BLZ",
+    "name": "Belize",
+    "region": "Americas",
+    "subregion": "Central America",
+    "population": 417634,
+    "lat": 17.25,
+    "lon": -88.75
+  },
+  {
+    "iso3": "GHA",
+    "name": "Ghana",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 33742380,
+    "lat": 8.0,
+    "lon": -2.0
+  },
+  {
+    "iso3": "MAF",
+    "name": "Saint Martin",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 31496,
+    "lat": 18.0708,
+    "lon": -63.0501
+  },
+  {
+    "iso3": "UGA",
+    "name": "Uganda",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 45905417,
+    "lat": 1.0,
+    "lon": 32.0
+  },
+  {
+    "iso3": "MTQ",
+    "name": "Martinique",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 349925,
+    "lat": 14.666667,
+    "lon": -61.0
+  },
+  {
+    "iso3": "SRB",
+    "name": "Serbia",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "population": 6567783,
+    "lat": 44.0,
+    "lon": 21.0
+  },
+  {
+    "iso3": "MYS",
+    "name": "Malaysia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 34231700,
+    "lat": 2.5,
+    "lon": 112.5
+  },
+  {
+    "iso3": "ALA",
+    "name": "Åland Islands",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 30654,
+    "lat": 60.116667,
+    "lon": 19.9
+  },
+  {
+    "iso3": "NIU",
+    "name": "Niue",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "population": 1681,
+    "lat": -19.03333333,
+    "lon": -169.86666666
+  },
+  {
+    "iso3": "DMA",
+    "name": "Dominica",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 67408,
+    "lat": 15.41666666,
+    "lon": -61.33333333
+  },
+  {
+    "iso3": "IRL",
+    "name": "Ireland",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 5458600,
+    "lat": 53.0,
+    "lon": -8.0
+  },
+  {
+    "iso3": "FLK",
+    "name": "Falkland Islands",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 3662,
+    "lat": -51.75,
+    "lon": -59.0
+  },
+  {
+    "iso3": "GBR",
+    "name": "United Kingdom",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 69281437,
+    "lat": 54.0,
+    "lon": -2.0
+  },
+  {
+    "iso3": "DOM",
+    "name": "Dominican Republic",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 10771504,
+    "lat": 19.0,
+    "lon": -70.66666666
+  },
+  {
+    "iso3": "ARG",
+    "name": "Argentina",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 46735004,
+    "lat": -34.0,
+    "lon": -64.0
+  },
+  {
+    "iso3": "TCA",
+    "name": "Turks and Caicos Islands",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 50828,
+    "lat": 21.75,
+    "lon": -71.58333333
+  },
+  {
+    "iso3": "RUS",
+    "name": "Russia",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 146028325,
+    "lat": 60.0,
+    "lon": 100.0
+  },
+  {
+    "iso3": "VUT",
+    "name": "Vanuatu",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "population": 321409,
+    "lat": -16.0,
+    "lon": 167.0
+  },
+  {
+    "iso3": "MEX",
+    "name": "Mexico",
+    "region": "Americas",
+    "subregion": "North America",
+    "population": 130575786,
+    "lat": 23.0,
+    "lon": -102.0
+  },
+  {
+    "iso3": "BRN",
+    "name": "Brunei",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 455500,
+    "lat": 4.5,
+    "lon": 114.66666666
+  },
+  {
+    "iso3": "GUF",
+    "name": "French Guiana",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 292354,
+    "lat": 4.0,
+    "lon": -53.0
+  },
+  {
+    "iso3": "MUS",
+    "name": "Mauritius",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 1243741,
+    "lat": -20.28333333,
+    "lon": 57.55
+  },
+  {
+    "iso3": "BLR",
+    "name": "Belarus",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 9109280,
+    "lat": 53.0,
+    "lon": 28.0
+  },
+  {
+    "iso3": "MRT",
+    "name": "Mauritania",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 4927532,
+    "lat": 20.0,
+    "lon": -12.0
+  },
+  {
+    "iso3": "TKM",
+    "name": "Turkmenistan",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "population": 7057841,
+    "lat": 40.0,
+    "lon": 60.0
+  },
+  {
+    "iso3": "PRY",
+    "name": "Paraguay",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 6109644,
+    "lat": -23.0,
+    "lon": -58.0
+  },
+  {
+    "iso3": "CZE",
+    "name": "Czechia",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "population": 10882341,
+    "lat": 49.75,
+    "lon": 15.5
+  },
+  {
+    "iso3": "LKA",
+    "name": "Sri Lanka",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 21763170,
+    "lat": 7.0,
+    "lon": 81.0
+  },
+  {
+    "iso3": "NGA",
+    "name": "Nigeria",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 223800000,
+    "lat": 10.0,
+    "lon": 8.0
+  },
+  {
+    "iso3": "PLW",
+    "name": "Palau",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "population": 16733,
+    "lat": 7.5,
+    "lon": 134.5
+  },
+  {
+    "iso3": "KGZ",
+    "name": "Kyrgyzstan",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "population": 7281800,
+    "lat": 41.0,
+    "lon": 75.0
+  },
+  {
+    "iso3": "TUN",
+    "name": "Tunisia",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 11972169,
+    "lat": 34.0,
+    "lon": 9.0
+  },
+  {
+    "iso3": "GLP",
+    "name": "Guadeloupe",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 378561,
+    "lat": 16.25,
+    "lon": -61.583333
+  },
+  {
+    "iso3": "KIR",
+    "name": "Kiribati",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "population": 120740,
+    "lat": 1.41666666,
+    "lon": 173.0
+  },
+  {
+    "iso3": "FJI",
+    "name": "Fiji",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "population": 900869,
+    "lat": -17.7134,
+    "lon": 178.065
+  },
+  {
+    "iso3": "AND",
+    "name": "Andorra",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 88406,
+    "lat": 42.5,
+    "lon": 1.5
+  },
+  {
+    "iso3": "ATA",
+    "name": "Antarctica",
+    "region": "Antarctic",
+    "subregion": "",
+    "population": 1300,
+    "lat": -90.0,
+    "lon": 0.0
+  },
+  {
+    "iso3": "MHL",
+    "name": "Marshall Islands",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "population": 42418,
+    "lat": 9.0,
+    "lon": 168.0
+  },
+  {
+    "iso3": "CHN",
+    "name": "China",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 1408280000,
+    "lat": 35.0,
+    "lon": 105.0
+  },
+  {
+    "iso3": "HRV",
+    "name": "Croatia",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "population": 3866233,
+    "lat": 45.16666666,
+    "lon": 15.5
+  },
+  {
+    "iso3": "SYC",
+    "name": "Seychelles",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 122729,
+    "lat": -4.58333333,
+    "lon": 55.66666666
+  },
+  {
+    "iso3": "ZAF",
+    "name": "South Africa",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "population": 63100945,
+    "lat": -29.0,
+    "lon": 24.0
+  },
+  {
+    "iso3": "COK",
+    "name": "Cook Islands",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "population": 15040,
+    "lat": -21.23333333,
+    "lon": -159.76666666
+  },
+  {
+    "iso3": "ESP",
+    "name": "Spain",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 49315949,
+    "lat": 40.0,
+    "lon": -4.0
+  },
+  {
+    "iso3": "GRL",
+    "name": "Greenland",
+    "region": "Americas",
+    "subregion": "North America",
+    "population": 56542,
+    "lat": 72.0,
+    "lon": -40.0
+  },
+  {
+    "iso3": "PNG",
+    "name": "Papua New Guinea",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "population": 11781559,
+    "lat": -6.0,
+    "lon": 147.0
+  },
+  {
+    "iso3": "ATG",
+    "name": "Antigua and Barbuda",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 103603,
+    "lat": 17.05,
+    "lon": -61.8
+  },
+  {
+    "iso3": "NOR",
+    "name": "Norway",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 5606944,
+    "lat": 62.0,
+    "lon": 10.0
+  },
+  {
+    "iso3": "CHE",
+    "name": "Switzerland",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 9082848,
+    "lat": 47.0,
+    "lon": 8.0
+  },
+  {
+    "iso3": "ZWE",
+    "name": "Zimbabwe",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "population": 17073087,
+    "lat": -20.0,
+    "lon": 30.0
+  },
+  {
+    "iso3": "SVN",
+    "name": "Slovenia",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "population": 2130638,
+    "lat": 46.11666666,
+    "lon": 14.81666666
+  },
+  {
+    "iso3": "GAB",
+    "name": "Gabon",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 2469296,
+    "lat": -1.0,
+    "lon": 11.75
+  },
+  {
+    "iso3": "FRO",
+    "name": "Faroe Islands",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 54885,
+    "lat": 62.0,
+    "lon": -7.0
+  },
+  {
+    "iso3": "MAR",
+    "name": "Morocco",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 36828330,
+    "lat": 32.0,
+    "lon": -5.0
+  },
+  {
+    "iso3": "MCO",
+    "name": "Monaco",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 38423,
+    "lat": 43.73333333,
+    "lon": 7.4
+  },
+  {
+    "iso3": "LSO",
+    "name": "Lesotho",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "population": 2116427,
+    "lat": -29.5,
+    "lon": 28.5
+  },
+  {
+    "iso3": "WLF",
+    "name": "Wallis and Futuna",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "population": 11620,
+    "lat": -13.3,
+    "lon": -176.2
+  },
+  {
+    "iso3": "ABW",
+    "name": "Aruba",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 107566,
+    "lat": 12.5,
+    "lon": -69.96666666
+  },
+  {
+    "iso3": "BFA",
+    "name": "Burkina Faso",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 24070553,
+    "lat": 13.0,
+    "lon": -2.0
+  },
+  {
+    "iso3": "BDI",
+    "name": "Burundi",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 12332788,
+    "lat": -3.5,
+    "lon": 30.0
+  },
+  {
+    "iso3": "FIN",
+    "name": "Finland",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 5650325,
+    "lat": 64.0,
+    "lon": 26.0
+  },
+  {
+    "iso3": "TJK",
+    "name": "Tajikistan",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "population": 10499000,
+    "lat": 39.0,
+    "lon": 71.0
+  },
+  {
+    "iso3": "ECU",
+    "name": "Ecuador",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 18103660,
+    "lat": -2.0,
+    "lon": -77.5
+  },
+  {
+    "iso3": "ITA",
+    "name": "Italy",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 58927633,
+    "lat": 42.83333333,
+    "lon": 12.83333333
+  },
+  {
+    "iso3": "MMR",
+    "name": "Myanmar",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 51316756,
+    "lat": 22.0,
+    "lon": 98.0
+  },
+  {
+    "iso3": "JPN",
+    "name": "Japan",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 123210000,
+    "lat": 36.0,
+    "lon": 138.0
+  },
+  {
+    "iso3": "SSD",
+    "name": "South Sudan",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 15786898,
+    "lat": 7.0,
+    "lon": 30.0
+  },
+  {
+    "iso3": "LBR",
+    "name": "Liberia",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 5248621,
+    "lat": 6.5,
+    "lon": -9.5
+  },
+  {
+    "iso3": "SGS",
+    "name": "South Georgia",
+    "region": "Antarctic",
+    "subregion": "",
+    "population": 0,
+    "lat": -54.5,
+    "lon": -37.0
+  },
+  {
+    "iso3": "BOL",
+    "name": "Bolivia",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 11365333,
+    "lat": -17.0,
+    "lon": -65.0
+  },
+  {
+    "iso3": "WSM",
+    "name": "Samoa",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "population": 205557,
+    "lat": -13.58333333,
+    "lon": -172.33333333
+  },
+  {
+    "iso3": "VNM",
+    "name": "Vietnam",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 101343800,
+    "lat": 16.16666666,
+    "lon": 107.83333333
+  },
+  {
+    "iso3": "COG",
+    "name": "Republic of the Congo",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 6142180,
+    "lat": -1.0,
+    "lon": 15.0
+  },
+  {
+    "iso3": "IRN",
+    "name": "Iran",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 85961000,
+    "lat": 32.0,
+    "lon": 53.0
+  },
+  {
+    "iso3": "ATF",
+    "name": "French Southern and Antarctic Lands",
+    "region": "Antarctic",
+    "subregion": "",
+    "population": 400,
+    "lat": -49.25,
+    "lon": 69.167
+  },
+  {
+    "iso3": "REU",
+    "name": "Réunion",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 896175,
+    "lat": -21.15,
+    "lon": 55.5
+  },
+  {
+    "iso3": "LBN",
+    "name": "Lebanon",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 5490000,
+    "lat": 33.83333333,
+    "lon": 35.83333333
+  },
+  {
+    "iso3": "ASM",
+    "name": "American Samoa",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "population": 49710,
+    "lat": -14.33333333,
+    "lon": -170.0
+  },
+  {
+    "iso3": "CMR",
+    "name": "Cameroon",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 29442327,
+    "lat": 6.0,
+    "lon": 12.0
+  },
+  {
+    "iso3": "SEN",
+    "name": "Senegal",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 18593258,
+    "lat": 14.0,
+    "lon": -14.0
+  },
+  {
+    "iso3": "MAC",
+    "name": "Macau",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 685900,
+    "lat": 22.16666666,
+    "lon": 113.55
+  },
+  {
+    "iso3": "PSE",
+    "name": "Palestine",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 5483450,
+    "lat": 31.9,
+    "lon": 35.2
+  },
+  {
+    "iso3": "NRU",
+    "name": "Nauru",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "population": 11680,
+    "lat": -0.53333333,
+    "lon": 166.91666666
+  },
+  {
+    "iso3": "SMR",
+    "name": "San Marino",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 34132,
+    "lat": 43.76666666,
+    "lon": 12.41666666
+  },
+  {
+    "iso3": "SLB",
+    "name": "Solomon Islands",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "population": 750325,
+    "lat": -8.0,
+    "lon": 159.0
+  },
+  {
+    "iso3": "AIA",
+    "name": "Anguilla",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 16010,
+    "lat": 18.25,
+    "lon": -63.16666666
+  },
+  {
+    "iso3": "FSM",
+    "name": "Micronesia",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "population": 105564,
+    "lat": 6.91666666,
+    "lon": 158.25
+  },
+  {
+    "iso3": "MWI",
+    "name": "Malawi",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 20734262,
+    "lat": -13.5,
+    "lon": 34.0
+  },
+  {
+    "iso3": "QAT",
+    "name": "Qatar",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 3173024,
+    "lat": 25.5,
+    "lon": 51.25
+  },
+  {
+    "iso3": "BWA",
+    "name": "Botswana",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "population": 2359609,
+    "lat": -22.0,
+    "lon": 24.0
+  },
+  {
+    "iso3": "MNP",
+    "name": "Northern Mariana Islands",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "population": 47329,
+    "lat": 15.2,
+    "lon": 145.75
+  },
+  {
+    "iso3": "ISL",
+    "name": "Iceland",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 391810,
+    "lat": 65.0,
+    "lon": -18.0
+  },
+  {
+    "iso3": "KEN",
+    "name": "Kenya",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 53330978,
+    "lat": 1.0,
+    "lon": 38.0
+  },
+  {
+    "iso3": "UNK",
+    "name": "Kosovo",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "population": 1585566,
+    "lat": 42.666667,
+    "lon": 21.166667
+  },
+  {
+    "iso3": "SXM",
+    "name": "Sint Maarten",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 41349,
+    "lat": 18.033333,
+    "lon": -63.05
+  },
+  {
+    "iso3": "BHS",
+    "name": "Bahamas",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 398165,
+    "lat": 25.0343,
+    "lon": -77.3963
+  },
+  {
+    "iso3": "DZA",
+    "name": "Algeria",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 47400000,
+    "lat": 28.0,
+    "lon": 3.0
+  },
+  {
+    "iso3": "GRC",
+    "name": "Greece",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 10400720,
+    "lat": 39.0,
+    "lon": 22.0
+  },
+  {
+    "iso3": "NPL",
+    "name": "Nepal",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 29911840,
+    "lat": 28.0,
+    "lon": 84.0
+  },
+  {
+    "iso3": "VIR",
+    "name": "United States Virgin Islands",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 87146,
+    "lat": 18.35,
+    "lon": -64.933333
+  }
+]

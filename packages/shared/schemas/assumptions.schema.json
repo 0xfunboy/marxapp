@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://marxapp.local/schemas/assumptions.schema.json",
+  "title": "AssumptionsSnapshot",
+  "type": "object",
+  "required": ["id", "modelVersion", "assumptions"],
+  "properties": {
+    "id": { "type": "string", "minLength": 1 },
+    "modelVersion": { "type": "string", "pattern": "^0\\.1\\.[0-9]+$" },
+    "assumptions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "label", "description", "defaultValue", "range", "unit", "impactText", "rationale", "version"],
+        "properties": {
+          "id": { "type": "string" },
+          "label": { "type": "string" },
+          "description": { "type": "string" },
+          "defaultValue": { "type": "number" },
+          "range": {
+            "type": "array",
+            "prefixItems": [{ "type": "number" }, { "type": "number" }],
+            "minItems": 2,
+            "maxItems": 2
+          },
+          "unit": { "type": "string" },
+          "impactText": { "type": "string" },
+          "rationale": { "type": "string" },
+          "version": { "type": "string" }
+        }
+      }
+    }
+  },
+  "additionalProperties": false
+}

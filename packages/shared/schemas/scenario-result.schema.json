@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://marxapp.local/schemas/scenario-result.schema.json",
+  "title": "ScenarioRunResult",
+  "type": "object",
+  "required": [
+    "runId",
+    "scenarioHash",
+    "modelVersion",
+    "datasetSnapshotId",
+    "outputs",
+    "assumptionsUsed",
+    "limits",
+    "winnersLosers",
+    "bottlenecks",
+    "summaryText"
+  ],
+  "properties": {
+    "runId": { "type": "string" },
+    "scenarioHash": { "type": "string" },
+    "modelVersion": { "type": "string" },
+    "datasetSnapshotId": { "type": "string" },
+    "outputs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["domain", "beforeCoveragePct", "afterCoveragePct", "deltaPct", "bottleneck", "explanation"],
+        "properties": {
+          "domain": { "type": "string" },
+          "beforeCoveragePct": { "type": "number" },
+          "afterCoveragePct": { "type": "number" },
+          "deltaPct": { "type": "number" },
+          "bottleneck": { "type": "boolean" },
+          "explanation": { "type": "string" }
+        }
+      }
+    },
+    "assumptionsUsed": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "value", "unit"],
+        "properties": {
+          "id": { "type": "string" },
+          "value": { "type": "number" },
+          "unit": { "type": "string" }
+        }
+      }
+    },
+    "limits": { "type": "array", "items": { "type": "string" } },
+    "winnersLosers": {
+      "type": "object",
+      "required": ["gainers", "losers"],
+      "properties": {
+        "gainers": { "type": "array", "items": { "type": "string" } },
+        "losers": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "bottlenecks": { "type": "array", "items": { "type": "string" } },
+    "summaryText": { "type": "string" }
+  },
+  "additionalProperties": true
+}
