@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=marxapp&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=MarxdApp%20is%20an%20educational%20%E2%80%9CEarth%20Digital%20Twin%E2%80%9D%20that%20visualizes%20global%20gaps...&descAlignY=60&descSize=14" width="100%"/>
+
+<img src="https://skillicons.dev/icons?i=ts,css,react&theme=dark" alt="Tech stack"/>
+
+</div>
+
 # Marxapp
 
 Marxapp is a didactic web application that explores a high-equality global redistribution scenario through transparent, inspectable models.
