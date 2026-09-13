@@ -186,5 +186,7 @@ Planned upgrades after v0.1:
 
 ## License and usage note
 
+Licensing scope and preserved third-party permissions are documented in [LICENSING.md](LICENSING.md). The [0xfunboy Non-Commercial License](LICENSE.md) covers eligible original material only.
+
 This repository is for educational exploration of redistribution trade-offs.
 Always interpret outputs together with assumptions, confidence scores, and limitations.
